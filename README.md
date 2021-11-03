@@ -1,2 +1,2 @@
-# ee463-hw1-
-This is ee463 homework1 repo of group of Zeynep Çoklu and Mert Eren Kandilli
+# ee463-hw1
+This is the repo for ee463 hw1 of the group of zeynep coklu and mert eren kandilli 
